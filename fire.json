@@ -1,0 +1,33 @@
+{
+  "nodes": {
+    "1": {
+      "id": 1,
+      "name": "University President",
+      "type": "root",
+      "description": "The head of the university, responsible for overseeing all administrative and academic functions."
+    },
+    "1737732776597": {
+      "id": 1737732776597,
+      "name": "dad",
+      "parentId": 1,
+      "type": "institute",
+      "description": ""
+    },
+    "8657324278184886000": {
+      "id": 8657324278184886000,
+      "name": "alex",
+      "parentId": 1737732776597,
+      "type": "school",
+      "description": ""
+    },
+    "-1610477568": {
+      "id": -1610477568,
+      "name": "dad",
+      "parentId": 8657324278184886000,
+      "type": "department",
+      "description": ""
+    }
+  },
+  "lastNodeId": 1
+}
+
